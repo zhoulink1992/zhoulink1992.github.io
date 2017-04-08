@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6f51120-e70e-4109-a654-b20e94f9ea8f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/avatar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/placeholder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/searchicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/zhoulink1992.github.io.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/03/31/1-写博客也是一种生活方式/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/04/09/2-mac用户如何将自己的代码上传至github托管/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/06/3-java中string、StringBuffer和StringBuilder的区别/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/07/4-Android中Activity的生命周期/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/12/5-新的开始/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/24/6-java-web实现Servlet的方式/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/26/7-java-web中的Servlet请求转发与请求包含/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/27/8-java-web学习笔记之Cookie入门/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/27/9-java-web学习笔记之session入门/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/30/10-Java随机生成图片与HTML表单中的验证码实现介绍/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/02/11-java学习笔记之反射机制/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/03/12-EL表达式/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/04/14-在Java中使用dom4j来解析xml文件/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/09/15-SQL学习笔记一/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/10/16-SQL学习笔记二/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/12/17-JavaWeb学习笔记之Jdbc一/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/16/18-JavaWeb学习笔记之Jdbc二/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/17/19-Java之IO流详解/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/20/20-用Java写网络爬虫一之项目介绍/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/23/21-用Java实现网络爬虫二之Java正则表达式/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/23/22-用Java写网络爬虫三之开始爬取/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/25/25-JavaWeb项目之客户管理系统/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/26/26-JavaWeb三大组件之监听器/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/27/27-JavaWeb三大组件之过滤器/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/28/28-AJAX是什么/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/30/29-JSTL标签库/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/02/31-上传下载与JavaMail/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/06/31-mybatis快速入门/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/07/33-MyBatis使用mapper动态代理开发/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/08/34-mybatis优化配置文件中的配置/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/08/35-mybatis输入与输出映射/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/09/36-mybatis动态sql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/09/37-mybatis实现高级映射/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/10/38-mybatis查询缓存/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/11/39-Spring/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/12/40-mybatis与spring的整合/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/13/41-mybatis9逆向工程/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/13/42-springmvc快速入门/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/14/43-springmvc之注解与非注解处理器/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/15/44-ssm的整合/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/15/45-smm快速入门/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/19/46-ssm高级开发/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/20/47-first-Shiro/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/21/48-shiro-authentication/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/22/49-shiro-authorization/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/23/50-Shiro-Integration/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/26/52-Maven-core-knowledge/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/27/53-maven-ssm-seckill-dao/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/28/54-seckill-service/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/28/55-seckill-web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/29/57-socket-chatroom/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/02/58-mac-commands/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/06/59-mac-hadoop/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/07/60-mac-spark/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/10/61-spark-streaming/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/14/62-javacv/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/21/63-javacv-ffmpeg/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/27/64-Hadoop-Storm-Spark/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/01/07/65-leetcodeSort/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/01/14/66-leetcode-find/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/02/06/67-follow-me-in-leetcode/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/02/20/68-resume/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/03/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/04/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/09/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/10/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/10/page/2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/11/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/11/page/2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/11/page/3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/12/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/5/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2017/01/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2017/02/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2017/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/5/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/7/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/AJAX-异步请求/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Android/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/EL/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/HTML/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Hadoop/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java-IO流/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java-Web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java-网络爬虫-Spider-Crawler-正则表达式/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java-网络爬虫-Spider-Crawler/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-JSTL/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-Jdbc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-project-客户管理系统/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-upload-JavaMail/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-监听器/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-过滤器/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java之xml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Mac-and-Github/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/MyBatis/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/MySQL-数据库/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/SSM/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Spark/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Spring-MVC/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Spring/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/diaries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/javacv/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/leetcode/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/mac命令行/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/maven-ssm/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/maven/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/resume/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/shiro/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/socket/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc-nd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc-sa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-sa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-zero.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/quote-l.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/quote-r.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/hook-duoshuo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/motion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/post-details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/schemes/pisces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/CONTRIBUTING.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.scrollstop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/5/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/7/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/AJAX-异步请求/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Android/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Hadoop/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java-IO流/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java-Web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java-网络爬虫-Spider-Crawler-正则表达式/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java-网络爬虫-Spider-Crawler/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-JSTL/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-Jdbc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-project-客户管理系统/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-upload-JavaMail/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-监听器/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-过滤器/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java之xml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Mac-and-github/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/MyBatis/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/MySQL-数据库/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/SSM/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Spark/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Spring-MVC/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Spring/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/diaries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/javacv/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/leetcode/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/mac命令行/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/maven-ssm/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/maven/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/resume/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/shiro/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/socket/index.html" />
+    </list>
+    <ignored path="zhoulink1992.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="zhoulink1992.github.io" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/jcalaBlog-springboot/jcalaBlog-master" value="2958442448000" />
+        <entry key="D:/Program Files/IdeaProjects/expper" value="14855174637318" />
+        <entry key="D:/Program Files/IdeaProjects/nettyServerGit" value="2973289059733" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="D:\Program Files\Git\bin\bash.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BatchConfigurationType" factoryName="Batch">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="zhoulink1992.github.io" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6f51120-e70e-4109-a654-b20e94f9ea8f" name="Default" comment="" />
+      <created>1491628757745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491628757745</updated>
+      <workItem from="1491628759253" duration="153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="153000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5859247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
