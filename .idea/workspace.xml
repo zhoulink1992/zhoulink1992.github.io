@@ -2,245 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6f51120-e70e-4109-a654-b20e94f9ea8f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/avatar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/placeholder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/searchicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/fancybox_buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/zhoulink1992.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/03/31/1-写博客也是一种生活方式/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/04/09/2-mac用户如何将自己的代码上传至github托管/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/06/3-java中string、StringBuffer和StringBuilder的区别/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/07/4-Android中Activity的生命周期/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/12/5-新的开始/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/24/6-java-web实现Servlet的方式/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/26/7-java-web中的Servlet请求转发与请求包含/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/27/8-java-web学习笔记之Cookie入门/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/27/9-java-web学习笔记之session入门/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/09/30/10-Java随机生成图片与HTML表单中的验证码实现介绍/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/02/11-java学习笔记之反射机制/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/03/12-EL表达式/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/04/14-在Java中使用dom4j来解析xml文件/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/09/15-SQL学习笔记一/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/10/16-SQL学习笔记二/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/12/17-JavaWeb学习笔记之Jdbc一/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/16/18-JavaWeb学习笔记之Jdbc二/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/17/19-Java之IO流详解/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/20/20-用Java写网络爬虫一之项目介绍/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/23/21-用Java实现网络爬虫二之Java正则表达式/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/23/22-用Java写网络爬虫三之开始爬取/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/25/25-JavaWeb项目之客户管理系统/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/26/26-JavaWeb三大组件之监听器/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/27/27-JavaWeb三大组件之过滤器/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/28/28-AJAX是什么/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/10/30/29-JSTL标签库/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/02/31-上传下载与JavaMail/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/06/31-mybatis快速入门/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/07/33-MyBatis使用mapper动态代理开发/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/08/34-mybatis优化配置文件中的配置/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/08/35-mybatis输入与输出映射/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/09/36-mybatis动态sql/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/09/37-mybatis实现高级映射/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/10/38-mybatis查询缓存/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/11/39-Spring/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/12/40-mybatis与spring的整合/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/13/41-mybatis9逆向工程/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/13/42-springmvc快速入门/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/14/43-springmvc之注解与非注解处理器/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/15/44-ssm的整合/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/15/45-smm快速入门/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/19/46-ssm高级开发/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/20/47-first-Shiro/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/21/48-shiro-authentication/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/22/49-shiro-authorization/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/23/50-Shiro-Integration/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/26/52-Maven-core-knowledge/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/27/53-maven-ssm-seckill-dao/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/28/54-seckill-service/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/28/55-seckill-web/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/11/29/57-socket-chatroom/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/02/58-mac-commands/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/06/59-mac-hadoop/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/07/60-mac-spark/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/10/61-spark-streaming/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/14/62-javacv/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/21/63-javacv-ffmpeg/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2016/12/27/64-Hadoop-Storm-Spark/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/01/07/65-leetcodeSort/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/01/14/66-leetcode-find/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/02/06/67-follow-me-in-leetcode/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017/02/20/68-resume/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/03/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/04/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/09/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/10/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/10/page/2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/11/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/11/page/2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/11/page/3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/12/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2016/page/6/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2017/01/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2017/02/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/2017/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/6/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archives/page/7/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/AJAX-异步请求/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Android/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/EL/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/HTML/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Hadoop/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java-IO流/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java-Web/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java-网络爬虫-Spider-Crawler-正则表达式/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java-网络爬虫-Spider-Crawler/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-JSTL/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-Jdbc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-project-客户管理系统/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-upload-JavaMail/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-监听器/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/JavaWeb-过滤器/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Java之xml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Mac-and-Github/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/MyBatis/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/MySQL-数据库/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/SSM/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Spark/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Spring-MVC/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/Spring/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/diaries/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/javacv/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/leetcode/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/mac命令行/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/maven-ssm/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/maven/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/resume/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/shiro/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/categories/socket/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc-nd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc-sa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-nd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by-sa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-by.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cc-zero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/quote-l.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/quote-r.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/hook-duoshuo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/motion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/post-details.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/schemes/pisces.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/src/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/README.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/CONTRIBUTING.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/README.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.lazyload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.scrollstop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/velocity/velocity.ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/6/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/7/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/AJAX-异步请求/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Android/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Hadoop/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java-IO流/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java-Web/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java-网络爬虫-Spider-Crawler-正则表达式/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java-网络爬虫-Spider-Crawler/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-JSTL/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-Jdbc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-project-客户管理系统/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-upload-JavaMail/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-监听器/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/JavaWeb-过滤器/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Java之xml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Mac-and-github/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/MyBatis/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/MySQL-数据库/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/SSM/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Spark/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Spring-MVC/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/Spring/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/diaries/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/javacv/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/leetcode/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/mac命令行/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/maven-ssm/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/maven/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/resume/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/shiro/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tags/socket/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/03/31/1-写博客也是一种生活方式/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/04/09/2-mac用户如何将自己的代码上传至github托管/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/09/06/3-java中string、StringBuffer和StringBuilder的区别/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/09/07/4-Android中Activity的生命周期/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/09/12/5-新的开始/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/09/24/6-java-web实现Servlet的方式/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/09/26/7-java-web中的Servlet请求转发与请求包含/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/09/27/8-java-web学习笔记之Cookie入门/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/09/27/9-java-web学习笔记之session入门/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/09/30/10-Java随机生成图片与HTML表单中的验证码实现介绍/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/02/11-java学习笔记之反射机制/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/03/12-EL表达式/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/04/14-在Java中使用dom4j来解析xml文件/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/09/15-SQL学习笔记一/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/10/16-SQL学习笔记二/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/12/17-JavaWeb学习笔记之Jdbc一/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/16/18-JavaWeb学习笔记之Jdbc二/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/17/19-Java之IO流详解/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/20/20-用Java写网络爬虫一之项目介绍/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/23/21-用Java实现网络爬虫二之Java正则表达式/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/23/22-用Java写网络爬虫三之开始爬取/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/25/25-JavaWeb项目之客户管理系统/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/26/26-JavaWeb三大组件之监听器/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/27/27-JavaWeb三大组件之过滤器/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/28/28-AJAX是什么/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/10/30/29-JSTL标签库/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/02/31-上传下载与JavaMail/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/06/31-mybatis快速入门/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/07/33-MyBatis使用mapper动态代理开发/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/08/34-mybatis优化配置文件中的配置/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/08/35-mybatis输入与输出映射/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/09/36-mybatis动态sql/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/09/37-mybatis实现高级映射/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/10/38-mybatis查询缓存/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/11/39-Spring/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/12/40-mybatis与spring的整合/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/13/41-mybatis9逆向工程/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/13/42-springmvc快速入门/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/14/43-springmvc之注解与非注解处理器/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/15/44-ssm的整合/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/15/45-smm快速入门/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/19/46-ssm高级开发/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/20/47-first-Shiro/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/21/48-shiro-authentication/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/22/49-shiro-authorization/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/23/50-Shiro-Integration/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/26/52-Maven-core-knowledge/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/27/53-maven-ssm-seckill-dao/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/28/54-seckill-service/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/28/55-seckill-web/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/11/29/57-socket-chatroom/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/02/58-mac-commands/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/06/59-mac-hadoop/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/07/60-mac-spark/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/10/61-spark-streaming/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/14/62-javacv/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/21/63-javacv-ffmpeg/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016/12/27/64-Hadoop-Storm-Spark/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/01/07/65-leetcodeSort/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/01/14/66-leetcode-find/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/02/20/68-resume/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/11/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2016/11/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/11/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2016/11/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/12/index.html" afterPath="$PROJECT_DIR$/archives/2016/12/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2016/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/page/4/index.html" afterPath="$PROJECT_DIR$/archives/2016/page/4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/page/6/index.html" afterPath="$PROJECT_DIR$/archives/2016/page/6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/01/index.html" afterPath="$PROJECT_DIR$/archives/2017/01/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/02/index.html" afterPath="$PROJECT_DIR$/archives/2017/02/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/index.html" afterPath="$PROJECT_DIR$/archives/2017/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/2/index.html" afterPath="$PROJECT_DIR$/archives/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/3/index.html" afterPath="$PROJECT_DIR$/archives/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/5/index.html" afterPath="$PROJECT_DIR$/archives/page/5/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/6/index.html" afterPath="$PROJECT_DIR$/archives/page/6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/7/index.html" afterPath="$PROJECT_DIR$/archives/page/7/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Java-网络爬虫-Spider-Crawler-正则表达式/index.html" afterPath="$PROJECT_DIR$/categories/Java-网络爬虫-Spider-Crawler-正则表达式/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/JavaWeb-project-客户管理系统/index.html" afterPath="$PROJECT_DIR$/categories/JavaWeb-project-客户管理系统/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/JavaWeb-upload-JavaMail/index.html" afterPath="$PROJECT_DIR$/categories/JavaWeb-upload-JavaMail/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/index.html" afterPath="$PROJECT_DIR$/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/leetcode/index.html" afterPath="$PROJECT_DIR$/categories/leetcode/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/resume/index.html" afterPath="$PROJECT_DIR$/categories/resume/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/2/index.html" afterPath="$PROJECT_DIR$/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search.xml" afterPath="$PROJECT_DIR$/search.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Hadoop/index.html" afterPath="$PROJECT_DIR$/tags/Hadoop/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Java/index.html" afterPath="$PROJECT_DIR$/tags/Java/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/SSM/index.html" afterPath="$PROJECT_DIR$/tags/SSM/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Spark/index.html" afterPath="$PROJECT_DIR$/tags/Spark/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Spring/index.html" afterPath="$PROJECT_DIR$/tags/Spring/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/index.html" afterPath="$PROJECT_DIR$/tags/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/javacv/index.html" afterPath="$PROJECT_DIR$/tags/javacv/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/leetcode/index.html" afterPath="$PROJECT_DIR$/tags/leetcode/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/mac命令行/index.html" afterPath="$PROJECT_DIR$/tags/mac命令行/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/maven/index.html" afterPath="$PROJECT_DIR$/tags/maven/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/resume/index.html" afterPath="$PROJECT_DIR$/tags/resume/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/shiro/index.html" afterPath="$PROJECT_DIR$/tags/shiro/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/socket/index.html" afterPath="$PROJECT_DIR$/tags/socket/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2017/02/06/67-follow-me-in-leetcode/index.html" afterPath="$PROJECT_DIR$/2017/04/06/67-follow-me-in-leetcode/index.html" />
     </list>
     <ignored path="zhoulink1992.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -256,6 +121,30 @@
   <component name="FavoritesManager">
     <favorites_list name="zhoulink1992.github.io" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="151" column="39" selection-start-line="151" selection-start-column="31" selection-end-line="151" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/5/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -269,6 +158,18 @@
     </option>
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/2016/03/31/1-写博客也是一种生活方式/index.html" />
+        <option value="$PROJECT_DIR$/2016/04/09/2-mac用户如何将自己的代码上传至github托管/index.html" />
+        <option value="$PROJECT_DIR$/2016/11/22/49-shiro-authorization/index.html" />
+        <option value="$PROJECT_DIR$/2016/09/30/10-Java随机生成图片与HTML表单中的验证码实现介绍/index.html" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -328,13 +229,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhoulink1992.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -783,12 +734,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491628757745</updated>
-      <workItem from="1491628759253" duration="153000" />
+      <workItem from="1491628759253" duration="1617000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1491629094443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491629094443</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cname&#10;">
+      <created>1491629511629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1491629511629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153000" />
+    <option name="totallyTimeSpent" value="1617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -800,31 +766,102 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5859247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43371522" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="cname&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="cname&#10;" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="151" column="39" selection-start-line="151" selection-start-column="31" selection-end-line="151" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016/03/31/1-写博客也是一种生活方式/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="150" column="39" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016/04/09/2-mac用户如何将自己的代码上传至github托管/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="154" column="39" selection-start-line="154" selection-start-column="39" selection-end-line="154" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016/11/22/49-shiro-authorization/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15121">
+          <caret line="722" column="47" selection-start-line="722" selection-start-column="47" selection-end-line="722" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016/09/30/10-Java随机生成图片与HTML表单中的验证码实现介绍/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016/09/06/3-java中string、StringBuffer和StringBuilder的区别/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
